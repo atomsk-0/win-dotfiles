@@ -49,7 +49,7 @@ function Update-Profile {
     git stash pop | Out-Null
 
     Write-Verbose "Rerunning setup script to capture any new dependencies."
-    if (Get-Command -Name gsudo -ErrorAction SilentlyContinue) {
+    if (Get-Command -Name sudo -ErrorAction SilentlyContinue) {
         sudo ./setup.ps1
     }
     else {

@@ -3,3 +3,6 @@ Start-Process regedit -ArgumentList "/s $PSScriptRoot\disable-win-hotkeys.reg"
 
 # Sets windows terminal as default terminal
 Start-Process regedit -ArgumentList "/s $PSScriptRoot\setup-console-host.reg"
+
+# Enables sudo [inline] command (Windows 11 only)
+Start-Process regedit -ArgumentList "/s $PSScriptRoot\enable-sudo.reg"
