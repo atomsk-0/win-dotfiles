@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"DisabledHotkeys"=hex(2):51,00,2c,00,52,00,2c,00,54,00,2c,00,53,00,2c,00,44,00,\
+  2c,00,48,00,2c,00,58,00,2c,00,31,00,2c,00,32,00,2c,00,33,00,2c,00,34,00,2c,\
+  00,35,00,2c,00,36,00,2c,00,37,00,2c,00,38,00,2c,00,39,00,00,00

@@ -1,0 +1,12 @@
+<application>
+  <component name="BlockTerminalUsage">
+    <option name="blockTerminalUsedLastTimeMillis" value="1732815694306" />
+    <option name="blockTerminalUsedLastVersion" value="243.21565.191" />
+    <shellToExecutedCommandsNumber>
+      <entry key="powershell" value="1" />
+    </shellToExecutedCommandsNumber>
+  </component>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Program Files\PowerShell\7\pwsh.exe" />
+  </component>
+</application>

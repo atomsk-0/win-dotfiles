@@ -1,0 +1,7 @@
+gnome-theme
+com.intellij.resharper.HeapAllocationsViewer
+Key Promoter X
+com.lczerniawski.BetterComments
+org.jetbrains.plugins.github
+com.github.copilot
+mobi.hsz.idea.gitignore
